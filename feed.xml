@@ -3,7 +3,7 @@
     <title>Manaria - Le JDR simple</title>
     <link href="https://n0m4n.github.io/Manaria/feed.xml" rel="self" />
     <link href="https://n0m4n.github.io/Manaria" />
-    <updated>2022-09-16T14:58:06+02:00</updated>
+    <updated>2022-09-16T15:07:16+02:00</updated>
     <author>
         <name>Cédric.n</name>
     </author>
@@ -17,8 +17,16 @@
         <link href="https://n0m4n.github.io/Manaria/-introduction-/"/>
         <id>https://n0m4n.github.io/Manaria/-introduction-/</id>
 
-        <updated>2022-09-16T14:58:06+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-09-16T15:07:16+02:00</updated>
+            <summary>
+                <![CDATA[
+                    ^_^
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>^_^</p>
+            ]]>
+        </content>
     </entry>
 </feed>
