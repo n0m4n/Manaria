@@ -5,10 +5,23 @@
     "home_page_url": "https://n0m4n.github.io/Manaria",
     "feed_url": "https://n0m4n.github.io/Manaria/feed.json",
     "user_comment": "",
+    "icon": "https://n0m4n.github.io/Manaria/media/website/Logo.png",
     "author": {
         "name": "Cédric.n"
     },
     "items": [
+        {
+            "id": "https://n0m4n.github.io/Manaria/creation-dun-personnage/",
+            "url": "https://n0m4n.github.io/Manaria/creation-dun-personnage/",
+            "title": "🧙‍♂️ Création d&#x27;un personnage",
+            "author": {
+                "name": "Cédric.n"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-16T16:44:28+02:00",
+            "date_modified": "2022-09-16T16:44:34+02:00"
+        },
         {
             "id": "https://n0m4n.github.io/Manaria/regles/",
             "url": "https://n0m4n.github.io/Manaria/regles/",
@@ -33,7 +46,7 @@
             "tags": [
             ],
             "date_published": "2022-09-16T14:58:06+02:00",
-            "date_modified": "2022-09-16T16:29:12+02:00"
+            "date_modified": "2022-09-16T16:43:11+02:00"
         }
     ]
 }
