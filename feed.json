@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Manaria - Le JDR simple",
+    "description": "",
+    "home_page_url": "https://n0m4n.github.io/Manaria",
+    "feed_url": "https://n0m4n.github.io/Manaria/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Cédric.n"
+    },
+    "items": [
+        {
+            "id": "https://n0m4n.github.io/Manaria/-introduction-/",
+            "url": "https://n0m4n.github.io/Manaria/-introduction-/",
+            "title": "- Introduction -",
+            "author": {
+                "name": "Cédric.n"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-16T14:58:06+02:00",
+            "date_modified": "2022-09-16T14:58:06+02:00"
+        }
+    ]
+}
