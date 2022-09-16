@@ -3,7 +3,7 @@
     <title>Manaria - Le JDR simple</title>
     <link href="https://n0m4n.github.io/Manaria/feed.xml" rel="self" />
     <link href="https://n0m4n.github.io/Manaria" />
-    <updated>2022-09-16T15:21:42+02:00</updated>
+    <updated>2022-09-16T16:29:12+02:00</updated>
     <author>
         <name>Cédric.n</name>
     </author>
@@ -29,15 +29,21 @@
         <link href="https://n0m4n.github.io/Manaria/-introduction-/"/>
         <id>https://n0m4n.github.io/Manaria/-introduction-/</id>
 
-        <updated>2022-09-16T15:07:16+02:00</updated>
+        <updated>2022-09-16T16:29:12+02:00</updated>
             <summary>
                 <![CDATA[
-                    ^_^
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>^_^</p>
+                <div id="output" class="page-generator__output js-generator-output">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue lacus viverra vitae congue eu. Ac placerat vestibulum lectus mauris ultrices eros. Elementum curabitur vitae nunc sed velit dignissim. Interdum velit laoreet id donec ultrices tincidunt arcu non sodales. Mauris a diam maecenas sed enim ut sem. Leo urna molestie at elementum eu facilisis sed. Massa massa ultricies mi quis hendrerit dolor magna eget est. Adipiscing elit pellentesque habitant morbi tristique senectus et netus et. Venenatis lectus magna fringilla urna porttitor. Vitae sapien pellentesque habitant morbi. Tristique senectus et netus et malesuada fames ac turpis.</p>
+<p>Blandit aliquam etiam erat velit scelerisque in dictum non consectetur. Platea dictumst quisque sagittis purus sit amet volutpat consequat. Pellentesque sit amet porttitor eget dolor. Nisi vitae suscipit tellus mauris a diam maecenas. Tristique risus nec feugiat in fermentum. In eu mi bibendum neque egestas congue quisque egestas. Viverra vitae congue eu consequat. Ligula ullamcorper malesuada proin libero nunc. Amet nisl purus in mollis nunc sed id. Ultricies tristique nulla aliquet enim tortor at. Dapibus ultrices in iaculis nunc. Mi tempus imperdiet nulla malesuada. Eleifend mi in nulla posuere. Leo a diam sollicitudin tempor id eu. Tortor aliquam nulla facilisi cras. Sem viverra aliquet eget sit amet tellus cras adipiscing. Euismod quis viverra nibh cras. Lacus sed turpis tincidunt id.</p>
+<p>Pellentesque habitant morbi tristique senectus. In cursus turpis massa tincidunt dui ut ornare lectus sit. Euismod quis viverra nibh cras. Ultricies leo integer malesuada nunc. In metus vulputate eu scelerisque felis imperdiet proin fermentum. Malesuada fames ac turpis egestas maecenas pharetra convallis. Eget mi proin sed libero enim sed faucibus. At risus viverra adipiscing at in tellus integer feugiat. Et malesuada fames ac turpis egestas integer eget aliquet. Nulla facilisi nullam vehicula ipsum a arcu cursus. Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Etiam sit amet nisl purus. Arcu ac tortor dignissim convallis aenean et tortor at risus.</p>
+<p>Nunc sed id semper risus in hendrerit gravida rutrum quisque. Diam phasellus vestibulum lorem sed risus ultricies. Vitae proin sagittis nisl rhoncus. Adipiscing bibendum est ultricies integer quis auctor. In eu mi bibendum neque. Integer malesuada nunc vel risus. Tellus id interdum velit laoreet id donec. Ullamcorper a lacus vestibulum sed arcu non odio. Cras fermentum odio eu feugiat pretium nibh ipsum. Habitant morbi tristique senectus et netus. Id diam maecenas ultricies mi eget mauris pharetra et ultrices. Risus commodo viverra maecenas accumsan lacus. Lectus magna fringilla urna porttitor rhoncus dolor purus non. Vitae congue mauris rhoncus aenean.</p>
+<p>Morbi quis commodo odio aenean sed. Magna sit amet purus gravida. Nam libero justo laoreet sit amet cursus sit amet. Imperdiet proin fermentum leo vel orci porta non pulvinar neque. Neque ornare aenean euismod elementum nisi quis eleifend quam. Platea dictumst quisque sagittis purus. Dignissim sodales ut eu sem integer vitae justo. Ultrices tincidunt arcu non sodales neque. Ultricies tristique nulla aliquet enim tortor at auctor urna. Ultrices dui sapien eget mi proin sed. Nullam vehicula ipsum a arcu cursus vitae congue. Dictumst quisque sagittis purus sit. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Sit amet massa vitae tortor condimentum lacinia quis. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat. Eget dolor morbi non arcu risus quis varius quam. Volutpat commodo sed egestas egestas fringilla phasellus faucibus. Purus ut faucibus pulvinar elementum. Consectetur adipiscing elit ut aliquam purus sit amet. Ut morbi tincidunt augue interdum velit euismod in.</p>
+</div>
             ]]>
         </content>
     </entry>
